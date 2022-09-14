@@ -27,7 +27,7 @@ extern "C" {
 
 
 
-#define ALTITUDE 680 // Altitude in meters
+#define ALTITUDE <ADD_YOUR_ALTITUDE> // Altitude in meters
 float temperature;
 
 #define uS_TO_S_FACTOR 1000000ULL  /* Conversion factor for micro seconds to seconds */
